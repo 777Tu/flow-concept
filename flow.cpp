@@ -43,6 +43,7 @@ int main(){
     
     flow.collect(live);
     mod(20);
-    mod(20);
+    mod(30);
+    cout<<endl;
     return 0;
 }
